@@ -6,7 +6,11 @@ Smith has used his background in computer science to create tools to help foreig
 
 Smith has spent thousands of hours over nearly a decade learning and polishing his Spanish and Mandarin, and has a <a href="https://www.youtube.com/@giovannismith">YouTube channel</a> with over 3000 subscribers documenting his experience and advice with regards to language learning.
 
-[Open Resume (PDF)](GiovanniSmithResumeMay2026PDF.pdf)
+<a href="GiovanniSmithResumeMay2026PDF.pdf"
+   target="_blank"
+   rel="noopener noreferrer">
+    Open Resume (PDF)
+</a>
 
 <iframe
     src="/GiovanniSmithResumeMay2026PDF.pdf"
