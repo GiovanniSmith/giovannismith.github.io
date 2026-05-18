@@ -9,12 +9,6 @@ Smith has spent thousands of hours over nearly a decade learning and polishing h
 [Open Resume (PDF)](GiovanniSmithResumeMay2026PDF.pdf)
 
 <iframe
-    src="GiovanniSmithResumeMay2026PDF.pdf"
-    width="100%"
-    height="800px">
-</iframe>
-
-<iframe
     src="/GiovanniSmithResumeMay2026PDF.pdf"
     width="100%"
     height="800px">
