@@ -1,4 +1,4 @@
-<img src="Giovanni-Smith-cropped-5-18-2026.png" width=25% display=flex; justify-content=center></img>
+<img src="Giovanni-Smith-cropped-5-18-2026.png" width=25% display=flex justify-content=center></img>
 
 Giovanni L. Smith graduated with a B.S. in computer science at Stephen F. Austin State University in 2024 and has begun pursuing a Ph.D. in computer science at North Carolina State University in Fall 2025. His research interests lie in cyber security, embedded-systems and cyber-physical systems.
 
