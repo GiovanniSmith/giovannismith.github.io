@@ -12,12 +12,12 @@ Smith has spent thousands of hours over nearly a decade learning and polishing h
 
 Contact: giovannismith2002 [at] gmail [dot] com
 
-<a href="Giovanni Smith Resume 5-24-2026 PDF.pdf" target="_blank">
+<a href="Giovanni%20Smith%20Resume%205-24-2026%20PDF.pdf" target="_blank">
     Open Resume (PDF)
 </a>
 
 <iframe
-    src="/Giovanni Smith Resume 5-24-2026 PDF.pdf"
+    src="/Giovanni%20Smith%20Resume%205-24-2026%20PDF.pdf"
     width="100%"
     height="800px">
 </iframe>
